@@ -1,5 +1,6 @@
 [package]
 name = "custom"
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 authors = ["Leonardo Tosetto <leonardo.a.tosetto@gmail.com>"]
